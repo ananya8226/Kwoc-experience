@@ -1,0 +1,42 @@
+body{
+	background-color:black;
+}
+
+.heading{
+
+	color:#008080;
+}
+
+h1{
+	text-align: center;
+	color: white;
+	font-size: 40px;
+	font-family: 'Oswald', sans-serif;
+}
+
+h2{
+	color: #F0FFFF;
+	font-size: 29px;
+	font-family: 'Merriweather', serif;
+}
+
+p{
+	color:#FFFAF0;
+	font-size: 20px;
+	font-family: 'Nunito Sans', sans-serif;
+}
+
+a{
+	color: white;
+	text-decoration: bold;
+}
+
+img{
+	height:357px;
+	width:179px;
+}
+
+.kwoc{
+	height:201px;
+	width: 292px;
+}
